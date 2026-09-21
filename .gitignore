@@ -1,0 +1,6 @@
+# Raw Claude Design export (source of the site, not served)
+_src/
+
+# Local tooling
+.claude/
+.vercel/
